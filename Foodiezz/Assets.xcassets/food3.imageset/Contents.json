@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "food-nutritional-quality-illustration_335657-4622.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "food-nutritional-quality-illustration_335657-4622@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "food-nutritional-quality-illustration_335657-4622@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
