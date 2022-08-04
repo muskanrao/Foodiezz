@@ -2,8 +2,11 @@
 * Online Food delivery App
 
 # About
-* This is an authenticated Food delivery App where the authenticated user can find dishes and place order easily.
-* All the dishes which are added to cart would be stored in database and would be visible to the user.
+* This is an Food delivery App.
+* The authetication is done by using firebase Authetication.
+* After user authentication , using collection view all food categories will be displayed.
+* On selecting the food , the user can add food to cart and futher order, add location and pay.
+* All the dishes which are added to cart will be stored in Firebase Database.
 
 # Screenshots
 <img src="https://user-images.githubusercontent.com/88151137/181506203-04c05405-78db-4fe6-9252-f252c660f886.png" width="200" height="390">                                         <img src="https://user-images.githubusercontent.com/88151137/181506227-57396e44-7757-4d86-834e-eb859125748c.png" width="200" height="390">
@@ -21,7 +24,9 @@
 # Language 
 * Swift
 
-# Stack
-* Xcode 
-* Firebase for user authentication and database
+## BackEnd
+* Firebase Authentication( User details registered )
+* Firebase Database
 
+# Tools
+* Xcode 
